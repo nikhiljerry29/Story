@@ -1,0 +1,1186 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S
+*
+Y
+*
+N
+*
+C
+*
+0
+0
+0
+0
+0
+0
+0
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S
+*
+Y
+*
+N
+*
+C
+*
+0
+0
+0
+0
+0
+0
+0
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date:   Sun Jan 17 20:26:39 2021 +0530
+
+    Sixth commit at tree
+
+commit c315c285ee521627cf6ad6c89d7fb269bfc0677d
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:19:50 2021 +0530
+
+    Fourth Commit at tree
+
+commit 468c08b623251a872492703de0a60d27601afe38
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:17:45 2021 +0530
+
+    Third Commit in tree branch
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (tree)
+$ git push origin main
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Everything up-to-date
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (tree)
+$ git push origin tree
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 248 bytes | 248.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/nikhiljerry29/Story.git
+   2f4a722..cc718a9  tree -> tree
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (tree)
+$ git merge main
+CONFLICT (modify/delete): chapter1.txt deleted in HEAD and modified in mai
+n. Version main of chapter1.txt left in tree.
+Automatic merge failed; fix conflicts and then commit the result.
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (tree|MERGING)
+$ git merge --abort
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (tree)
+$ git log
+commit cc718a99f758c8c066d5e21e120f72f631727148 (HEAD -> tree, origin/tree)
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 21:19:46 2021 +0530
+
+    Eleventh Commit at tree
+
+commit 2f4a722c34f708f84a1132617afeaa43580a5cdc
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 21:10:17 2021 +0530
+
+    Ninth Commit at tree
+
+commit 9c2bbc5c992fd136f9c3e97440751af1cf994d3d
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 21:08:17 2021 +0530
+
+    Eight Commit at tree
+
+commit c6f618da461f0a0bb0b0a8baad897880709d2560
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:33:56 2021 +0530
+
+    Seventh Commit at tree
+
+commit e44a9b5b6983ed45ddf40e09a36c8ec50d08c4e1
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:26:39 2021 +0530
+
+    Sixth commit at tree
+
+commit c315c285ee521627cf6ad6c89d7fb269bfc0677d
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:19:50 2021 +0530
+
+    Fourth Commit at tree
+
+commit 468c08b623251a872492703de0a60d27601afe38
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:17:45 2021 +0530
+
+    Third Commit in tree branch
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (tree)
+$ gitcheckout  main
+bash: gitcheckout: command not found
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (tree)
+$ git checkout  main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main)
+$ git log
+commit 7c78e39f5761c84feb3c3452ac9e9f5160d81820 (HEAD -> main, origin/main)
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 21:15:51 2021 +0530
+
+    Tenth Commit at tree
+
+commit 9dc9e2ea143291dbe450ed0b4f94b13050d5572e
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:29:03 2021 +0530
+
+    Seventh Commit at main
+
+commit c9265294db39c44f82774b0c1ebc536649ab6b76
+Merge: a9434d9 c315c28
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:22:57 2021 +0530
+
+    Merge branch 'tree' into main
+
+commit a9434d90a408ebb14e203676b256e94d0574f81c
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:21:25 2021 +0530
+
+    Fifth Commit at main
+
+commit c315c285ee521627cf6ad6c89d7fb269bfc0677d
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:19:50 2021 +0530
+
+    Fourth Commit at tree
+
+commit 468c08b623251a872492703de0a60d27601afe38
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:17:45 2021 +0530
+
+    Third Commit in tree branch
+
+commit b0f2c91746380a80c67c217f944c4bcfefece134
+Author: NIKHIL GUPTA <nikhil.gupta5667@gmail.com>
+Date:   Sun Jan 17 20:11:43 2021 +0530
+
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main)
+$ touch chapter5.txt
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main)
+$ start chapter5.txt
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        chapter5.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main)
+$ start chapter1.txt
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   chapter1.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        chapter5.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main)
+$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main)
+$ git add . && git commit -m "Twelth Commit at main"
+[main 612b701] Twelth Commit at main
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ rewrite chapter1.txt (100%)
+ create mode 100644 chapter5.txt
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main)
+$ git push origin main
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 590 bytes | 590.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/nikhiljerry29/Story.git
+   7c78e39..612b701  main -> main
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main)
+$ git merge tree
+CONFLICT (modify/delete): chapter1.txt deleted in tree and modified in HEAD. Version HEAD of chapter1.txt left in
+ tree.
+Automatic merge failed; fix conflicts and then commit the result.
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main|MERGING)
+$ git checkout tree
+error: you need to resolve your current index first
+chapter1.txt: needs merge
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main|MERGING)
+$ git merge --abort
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (main)
+$ git checkout tree
+Switched to branch 'tree'
+Your branch is up to date with 'origin/tree'.
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (tree)
+$ start chapter1.txt
+The system cannot find the file chapter1.txt.
+
+Nikhil@Jerry MINGW64 ~/Desktop/Story (tree)
+$ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at ex ege
+stas elit venenatis tincidunt. Ut euismod ultricies pulvinar. Maecenas si
+t amet vulputate ex, consectetur tempus lorem. Etiam volutpat ex nunc, si
+t amet suscipit urna laoreet condimentum. Suspendisse orci augue, auctor
+a fermentum et, tincidunt id lectus. Morbi faucibus id neque at aliquam.
+Quisque vulputate volutpat cursus. Quisque eget mauris volutpat, sollicit
+udin leo in, pharetra nunc. Nullam vel neque maximus, ultrices risus non,
+ interdum urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit. D
+uis at ex egestas elit venenatis tincidunt. Ut euismod ultricies pulvinar
+. Maecenas sit amet vulputate ex, consectetur tempus lorem. Etiam volutpa
+t ex nunc, sit amet suscipit urna laoreet condimentum. Suspendisse orci a
+ugue, auctor a fermentum et, tincidunt id lectus. Morbi faucibus id neque
+ at aliquam. Quisque vulputate volutpat cursus. Quisque eget mauris volut
+pat, sollicitudin leo in,
